@@ -1,0 +1,28 @@
+E:\MyDocuments\Documents\AtWork\Curs PCLPII\2018\Mapa3P-NUME Prenume\Mapa3P-NUME Prenume\bin\Debug\Mapa3P-NUME Prenume.exe.config
+E:\MyDocuments\Documents\AtWork\Curs PCLPII\2018\Mapa3P-NUME Prenume\Mapa3P-NUME Prenume\bin\Debug\Mapa3P-NUME Prenume.exe
+E:\MyDocuments\Documents\AtWork\Curs PCLPII\2018\Mapa3P-NUME Prenume\Mapa3P-NUME Prenume\bin\Debug\Mapa3P-NUME Prenume.pdb
+E:\MyDocuments\Documents\AtWork\Curs PCLPII\2018\Mapa3P-NUME Prenume\Mapa3P-NUME Prenume\obj\Debug\Mapa3P_NUME_Prenume.Form1.resources
+E:\MyDocuments\Documents\AtWork\Curs PCLPII\2018\Mapa3P-NUME Prenume\Mapa3P-NUME Prenume\obj\Debug\Mapa3P_NUME_Prenume.Properties.Resources.resources
+E:\MyDocuments\Documents\AtWork\Curs PCLPII\2018\Mapa3P-NUME Prenume\Mapa3P-NUME Prenume\obj\Debug\Mapa3P-NUME Prenume.csproj.GenerateResource.Cache
+E:\MyDocuments\Documents\AtWork\Curs PCLPII\2018\Mapa3P-NUME Prenume\Mapa3P-NUME Prenume\obj\Debug\Mapa3P-NUME Prenume.exe
+E:\MyDocuments\Documents\AtWork\Curs PCLPII\2018\Mapa3P-NUME Prenume\Mapa3P-NUME Prenume\obj\Debug\Mapa3P-NUME Prenume.pdb
+E:\MyDocuments\Documents\AtWork\Curs PCLPII\2018\Mapa3P-NUME Prenume\Mapa3P-NUME Prenume\obj\Debug\Mapa3P_NUME_Prenume.Form3.resources
+E:\MyDocuments\Documents\AtWork\Curs PCLPII\2018\Mapa3P-NUME Prenume\Mapa3P-NUME Prenume\obj\Debug\Mapa3P_NUME_Prenume.Form4.resources
+E:\MyDocuments\Documents\AtWork\Curs PCLPII\2018\Mapa3P-NUME Prenume\Mapa3P-NUME Prenume\obj\Debug\Mapa3P_NUME_Prenume.Form2.resources
+E:\MyDocuments\Documents\AtWork\Curs PCLPII\2018\Mapa3P-NUME Prenume\Mapa3P-NUME Prenume\obj\Debug\Mapa3P_NUME_Prenume.Form5.resources
+E:\MyDocuments\Documents\AtWork\Curs PCLPII\2018\Mapa3P-NUME Prenume\Mapa3P-NUME Prenume\obj\Debug\Mapa3P-NUME Prenume.csprojResolveAssemblyReference.cache
+D:\AtWork 1-04-2020\Cursuri\Curs PCLPII\2020\Mapa3P-NUME Prenume\Mapa3P-NUME Prenume\bin\Debug\Mapa3P-NUME Prenume.exe.config
+D:\AtWork 1-04-2020\Cursuri\Curs PCLPII\2020\Mapa3P-NUME Prenume\Mapa3P-NUME Prenume\bin\Debug\Mapa3P-NUME Prenume.exe
+D:\AtWork 1-04-2020\Cursuri\Curs PCLPII\2020\Mapa3P-NUME Prenume\Mapa3P-NUME Prenume\bin\Debug\Mapa3P-NUME Prenume.pdb
+D:\AtWork 1-04-2020\Cursuri\Curs PCLPII\2020\Mapa3P-NUME Prenume\Mapa3P-NUME Prenume\obj\Debug\Mapa3P-NUME Prenume.csprojAssemblyReference.cache
+D:\AtWork 1-04-2020\Cursuri\Curs PCLPII\2020\Mapa3P-NUME Prenume\Mapa3P-NUME Prenume\obj\Debug\Mapa3P_NUME_Prenume.Form1.resources
+D:\AtWork 1-04-2020\Cursuri\Curs PCLPII\2020\Mapa3P-NUME Prenume\Mapa3P-NUME Prenume\obj\Debug\Mapa3P_NUME_Prenume.Form2.resources
+D:\AtWork 1-04-2020\Cursuri\Curs PCLPII\2020\Mapa3P-NUME Prenume\Mapa3P-NUME Prenume\obj\Debug\Mapa3P_NUME_Prenume.Form3.resources
+D:\AtWork 1-04-2020\Cursuri\Curs PCLPII\2020\Mapa3P-NUME Prenume\Mapa3P-NUME Prenume\obj\Debug\Mapa3P_NUME_Prenume.Form4.resources
+D:\AtWork 1-04-2020\Cursuri\Curs PCLPII\2020\Mapa3P-NUME Prenume\Mapa3P-NUME Prenume\obj\Debug\Mapa3P_NUME_Prenume.Form5.resources
+D:\AtWork 1-04-2020\Cursuri\Curs PCLPII\2020\Mapa3P-NUME Prenume\Mapa3P-NUME Prenume\obj\Debug\Mapa3P_NUME_Prenume.Properties.Resources.resources
+D:\AtWork 1-04-2020\Cursuri\Curs PCLPII\2020\Mapa3P-NUME Prenume\Mapa3P-NUME Prenume\obj\Debug\Mapa3P-NUME Prenume.csproj.GenerateResource.cache
+D:\AtWork 1-04-2020\Cursuri\Curs PCLPII\2020\Mapa3P-NUME Prenume\Mapa3P-NUME Prenume\obj\Debug\Mapa3P-NUME Prenume.csproj.CoreCompileInputs.cache
+D:\AtWork 1-04-2020\Cursuri\Curs PCLPII\2020\Mapa3P-NUME Prenume\Mapa3P-NUME Prenume\obj\Debug\Mapa3P-NUME Prenume.exe
+D:\AtWork 1-04-2020\Cursuri\Curs PCLPII\2020\Mapa3P-NUME Prenume\Mapa3P-NUME Prenume\obj\Debug\Mapa3P-NUME Prenume.pdb
+D:\AtWork 1-04-2020\Cursuri\Curs PCLPII\2020\Mapa3P-NUME Prenume\Mapa3P-NUME Prenume\obj\Debug\Mapa3P_NUME_Prenume.Form6.resources
